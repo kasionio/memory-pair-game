@@ -1,6 +1,8 @@
 # memory-pair-game
 
-This is an implementation of the 'memory pair game'. Done with Vanilla JS, as a part of [Kottans Frontend course](https://github.com/kottans/frontend).
+This is an implementation of the 'memory pair game'. Done with Vanilla JS, as a part of [Kottans Frontend course](https://github.com/kottans/frontend).  
+
+[DEMO](https://kasionio.github.io/memory-pair-game/)
 
 ### Rules 
 
